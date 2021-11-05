@@ -1,11 +1,16 @@
 {
   "parser": "@typescript-eslint/parser",
   "plugins": [
+    "testing-library",
+    "jest-dom",
     "@typescript-eslint"
   ],
   "extends": [
-    "plugin:react/recommended",
-    // Uses the recommended rules from @eslint-plugin-react
+    "react-app",
+    "react-app/jest",
+    "plugin:testing-library/react",
+    "plugin:jest-dom/recommended",
+    // "plugin:react/recommended",
     "plugin:@typescript-eslint/recommended",
     "plugin:prettier/recommended"
   ],
