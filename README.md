@@ -6,7 +6,7 @@ CRA + TS + Emotion + Eslint + Prettier 세팅을 완료한 보일러플레이트
 - Language: [TypeScript](https://github.com/microsoft/TypeScript) 
 - Library
   - Development: [React](https://github.com/facebook/react/)
-  - UI & Styling: [Emotion](https://github.com/emotion-js/emotion)
+  - UI & Styling: [Styled-Components]('')
 - Project Setup: [Create React App](https://github.com/facebook/create-react-app)
 - Code Format : [Eslint](''),  [Prettier]('')
    - @typescript-eslint/eslint-plugin
