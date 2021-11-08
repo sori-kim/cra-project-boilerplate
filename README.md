@@ -1,5 +1,5 @@
-# CRA + TypeScript + Emotion Boilerplate
-CRA + TS + Emotion + Eslint + Prettier 세팅을 완료한 보일러플레이트 입니다. 
+# CRA + TypeScript + Styled-Components Boilerplate
+CRA + TS + Styled-Components + Eslint + Prettier 세팅을 완료한 보일러플레이트 입니다. 
 
 ## 기술 스택
 
